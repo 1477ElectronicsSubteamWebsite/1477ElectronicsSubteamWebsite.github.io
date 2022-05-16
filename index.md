@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "modules"
+title: "Home"
 ---
-Click on the buttons below to access the information for the FRC electronics system.
+FRC Team 1477's Electrical Subteam Website!
