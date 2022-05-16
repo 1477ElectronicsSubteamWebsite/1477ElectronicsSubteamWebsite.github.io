@@ -9,7 +9,7 @@ Powers the little things on the robot that the PDP cannot, such as Raspberry Pi'
 
 ### New REV Mini Power Module
 
-	Functions similarly to the VRM, with enhanced compatibility with the REV system. Offers 6 channels to power additional modules on the robot.
+Functions similarly to the VRM, with enhanced compatibility with the REV system. Offers 6 channels to power additional modules on the robot.
 
 ### Troubleshooting
 
