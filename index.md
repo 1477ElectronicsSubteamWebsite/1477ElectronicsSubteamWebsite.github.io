@@ -1,5 +1,6 @@
 ---
 layout: page
+head: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 title: "Texas Torque Electronics"
 ---
 <h1 align="center">FRC Team 1477's Electrical Subteam Website!</h1>
