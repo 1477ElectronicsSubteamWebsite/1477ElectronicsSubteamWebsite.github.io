@@ -4,12 +4,12 @@ title: "Modules"
 ---
 
     
-    [Power Distribution Panel](/modules/power-distribution-panel/)
+[Power Distribution Panel](/modules/power-distribution-panel/)
   
-    [Voltage Regulator Module](/modules/voltage-regulator-module/)
+[Voltage Regulator Module](/modules/voltage-regulator-module/)
   
-    [RoboRIO](/modules/roborio/)
+[RoboRIO](/modules/roborio/)
   
-    [Motor Controllers](/modules/motor-controllers)
+[Motor Controllers](/modules/motor-controllers)
   
-    [Pneumatics Control Module](/modules/pneumatics-control-module)
+[Pneumatics Control Module](/modules/pneumatics-control-module)
