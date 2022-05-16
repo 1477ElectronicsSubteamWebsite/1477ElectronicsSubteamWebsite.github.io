@@ -1,6 +1,6 @@
 ---
 title:  "Power Distribution Panel"
-permalink: /power-distribution-panel/
+permalink: /modules/power-distribution-panel/
 layout: page
 ---
 
