@@ -1,7 +1,7 @@
 ---
-title: "Motor Controllers"
-permalink:/modules/motor-controllers/
-layout:page
+title:  "Motor Controllers"
+permalink: /modules/motor-controllers/
+layout: page
 ---
 
 
