@@ -7,10 +7,12 @@ layout: page
 
 
 ### REV SparkMAX
+![sparkmax](/images/sparkmax1.jpg)
 
 The REV motor controller that runs Neos and Mini Neos. Neos are brushless motors that have built in encoders. Compatible with REV Sparkmax client and can also be ran by PWM wire to
 
 ### TalonSRX and Victor SPX Speed Controllers
+![talonsrx](/images/talonsrx.jpg)
 
 Run brushed motors, such as the 775 pro., and can be connected to an external mag encoder. Similar to the VEX VictorSPX, that also runs brushed motors.
 
