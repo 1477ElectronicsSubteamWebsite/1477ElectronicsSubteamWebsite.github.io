@@ -5,8 +5,8 @@ layout: page
 ---
 
 ### CTRE (Cross the Road Electronics) PDP
-![PDP](/images/pdp1.jpg)
-<img src="drawing.jpg" alt="drawing" width="200"/>
+![PDP](/images/pdp1.jpg./pic/pic1_50.png =100x20)
+
 
 The panel that was used most commonly from its debut in 2015 until the reveal of the new REV system. 16 ports of pure, absolute, bliss. 
 
