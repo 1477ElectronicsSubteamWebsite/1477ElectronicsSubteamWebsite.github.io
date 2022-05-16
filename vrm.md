@@ -1,7 +1,7 @@
 ---
-title: Voltage Regulator Module (VRM)
 layout: page
 permalink:/modules/voltage-regulator-module/
+title: Voltage Regulator Module (VRM)
 ---
 ### CTRE VRM
 
