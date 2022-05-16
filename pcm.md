@@ -15,7 +15,7 @@ Functions similarly to the PCM, with enhanced compatibility with the REV system.
 
 ##### Won't turn on:
 
-Check connection to the PDP. Specifically crimps & fuse
+Check connection to the PDP. Specifically the crimps & the fuse
 
 ##### Not supplying power to a solenoid:
 
