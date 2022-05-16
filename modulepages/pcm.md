@@ -4,10 +4,12 @@ permalink: /modules/pneumatics-control-module/
 title: "Pneumatics Control Module"
 ---
 ### Pneumatics Control Module (PCM)
+![PCM](/images/pcm1.jpg)
 
 Controls the pneumatics on the robot by turning on/off the compressor and controlling solenoids. 
 
 ### New REV Pneumatic Hub
+![PH](/images/ph.jpg)
 
 Functions similarly to the PCM, with enhanced compatibility with the REV system.  16 solenoid channel and capacity for 2 analog pressure sensors in addition to a pressure switch.
 
