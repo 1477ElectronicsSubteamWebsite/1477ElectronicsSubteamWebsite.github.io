@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Home"
+title: "Texas Torque Electronics"
 ---
-FRC Team 1477's Electrical Subteam Website!
+<h1 align="center">FRC Team 1477's Electrical Subteam Website!</h1>
