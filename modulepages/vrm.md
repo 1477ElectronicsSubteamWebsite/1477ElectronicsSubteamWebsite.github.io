@@ -7,10 +7,12 @@ layout: page
 
 
 ### CTRE VRM
+![VRM](/images/vrm.jpg)
 
 Powers the little things on the robot that the PDP cannot, such as Raspberry Pi's, LED strips, and Arduinos. POE's and barrel plugs for the radio and other modules get their power from here.
 
 ### New REV Mini Power Module
+![minipowermodule](/images/revminipower.jpg)
 
 Functions similarly to the VRM, with enhanced compatibility with the REV system. Offers 6 channels to power additional modules on the robot.
 
