@@ -1,5 +1,6 @@
 ---
 title: "Rookie Help"
+permalink: /"rookiehelp"/
 layout: page
 ---
 
