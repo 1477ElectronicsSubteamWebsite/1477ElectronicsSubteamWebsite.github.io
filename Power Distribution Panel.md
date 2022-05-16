@@ -1,5 +1,6 @@
 ---
 title:  "Power Distribution Panel"
+permalink: /"power-distribution-panel"/
 layout: page
 ---
 
