@@ -1,8 +1,11 @@
 ---
+
 layout: page
 permalink:/modules/voltage-regulator-module/
 title: Voltage Regulator Module (VRM)
 ---
+
+
 ### CTRE VRM
 
 Powers the little things on the robot that the PDP cannot, such as Raspberry Pi's, LED strips, and Arduinos. POE's and barrel plugs for the radio and other modules get their power from here.
