@@ -11,6 +11,7 @@ layout: page
 The panel that was used most commonly from its debut in 2015 until the reveal of the new REV system. 16 ports of pure, absolute, bliss. 
 
 ### REV Robotics PDH
+![PDH](/images/pdh1.jpg)
 
 REV's new PDH debuted for pre-order in November 2021 along with the rest of their new 2022 FRC electronics system. However, is compatible with the REV system including the radio power module, the Pneumatic Hub, and the new auto reset breakers. Now compatible with the new REV mini power module.
 
