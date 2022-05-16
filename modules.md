@@ -3,14 +3,15 @@ layout: default
 title: "Modules"
 ---
 
+<h1 align="center">[Power Distribution Panel](/modules/power-distribution-panel/)</h1>
 
-<p align="center"> [Power Distribution Panel](/modules/power-distribution-panel/) </p>
+ [Power Distribution Panel](/modules/power-distribution-panel/) 
+ 
+ [Voltage Regulator Module](/modules/voltage-regulator-module/)
   
-<p align="center"> [Voltage Regulator Module](/modules/voltage-regulator-module/) </p>
+ [RoboRIO](/modules/roborio/)
   
-<p align="center"> [RoboRIO](/modules/roborio/) </p>
-  
-<p align="center"> [Motor Controllers](/modules/motor-controllers) </p>
-  
-<p align="center"> [Pneumatics Control Module](/modules/pneumatics-control-module) </p>
+ [Motor Controllers](/modules/motor-controllers) 
+
+ [Pneumatics Control Module](/modules/pneumatics-control-module) 
 
