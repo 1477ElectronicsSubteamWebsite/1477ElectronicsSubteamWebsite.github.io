@@ -10,5 +10,4 @@ Welcome to the website of Texas Torque's Electronics Subteam! We are the student
 Information regarding individual modules can be found along the navigation bar. Rookie learning interactives can be found under "Rookie Help". Troubleshooting for a specific module is detailed on the module page.
 
 Modules
-<button name="Modules" onclick="https://carolinenilorac.github.io/modules/">Click me</button>
-
+{% include button.html url="https://carolinenilorac.github.io/modules/" %}
