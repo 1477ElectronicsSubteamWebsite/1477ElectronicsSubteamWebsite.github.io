@@ -3,7 +3,9 @@ layout: page
 title: "Texas Torque Electronics"
 ---
 
-![downloadedit](/images/downloadedit.png)
+<p align="center">
+  <img width="460" height="300" src="http://https://1477electronicssubteamwebsite.github.io/images/downloadedit.png">
+</p>
 
 <h1 align="center">FRC Team 1477's Electrical Subteam Website!</h1>
 
