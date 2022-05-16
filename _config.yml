@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "modules.md", title: "modules"}
+  - {file: "modules.md", title: "Modules"}
   - {file: "README.md", title: "About Us"}
 
 
