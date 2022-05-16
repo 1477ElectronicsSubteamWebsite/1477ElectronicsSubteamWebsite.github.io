@@ -5,6 +5,7 @@ layout: page
 ---
 
 ### NI roboRIO 2.0
+![roborio](/images/roborio.jpg)
 
 The newest version of the roboRIO, the brain of the FRC system. 10 DIO and 10 PWM ports for various modules, compatible with the navX navigation sensor, and houses a USB and ethernet port.
 
