@@ -1,7 +1,7 @@
 ---
-layout:page
-permalink:/modules/motor-controllers/
 title: "Motor Controllers"
+permalink:/modules/motor-controllers/
+layout:page
 ---
 
 ### REV SparkMAX
